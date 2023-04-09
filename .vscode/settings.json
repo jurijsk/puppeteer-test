@@ -1,0 +1,15 @@
+//this file contains setting affecting VS Code tools and Extensions
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "TypeScript",
+    "azureFunctions.projectRuntime": "~4",
+	"azureFunctions.defaultFunctionAppToDeploy": "/subscriptions/75f1ea4d-9846-4711-a428-d77cf117ce1c/resourceGroups/textjoint/providers/Microsoft.Web/sites/pup",
+	"azureFunctions.projectLanguageModel": 4,
+	"azureFunctions.showDeployConfirmation": false,
+	"azureFunctions.showHiddenStacks": true,
+	"azureFunctions.showProjectWarning": true,
+    "azureFunctions.scmDoBuildDuringDeployment": true
+
+
+
+}
