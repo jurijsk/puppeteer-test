@@ -1,13 +1,16 @@
 {
 	"name": "functions-puppeteer",
 	"version": "1.0.0",
+	"type": "module",
 	"description": "",
 	"scripts": {
+		"build": "tsc",
 		"start": "func start",
 		"test": "echo \"No tests yet...\""
 	},
 	"dependencies": {
 		"@azure/functions": "^3.5.1",
-		"puppeteer": "^19.8.5"
+		"puppeteer": "^19.8.5",
+		"typescript": "^5.0.4"
 	}
 }
