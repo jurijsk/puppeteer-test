@@ -9,7 +9,4 @@
 	"azureFunctions.showHiddenStacks": true,
 	"azureFunctions.showProjectWarning": true,
     "azureFunctions.scmDoBuildDuringDeployment": true
-
-
-
 }
